@@ -1,0 +1,20 @@
+{
+  "username": "himesha.sakalasooriya@acentura.com",
+  "teamId": 4,
+  "capturedBy": "archchana.sivarajah@acentura.com",
+  "attendance": [
+    {
+      "attendanceDate": "2021-06-13",
+      "attendanceTime": [
+        {
+          "inOutFlag": true,
+          "attendanceTime": "08:46:00"
+        }
+      ],
+      "locationId": 1,
+      "tasks": [
+        "task x2 ","akalanka"
+      ]
+    }
+  ]
+}
